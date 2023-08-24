@@ -1,1 +1,1 @@
-Url: https://steward-gate.github.io/anomaly-archive/
+Url: https://steward-gate.github.io/archive/
